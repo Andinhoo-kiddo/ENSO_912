@@ -3,7 +3,7 @@ package app;
 import io.jooby.annotations.*;
 import io.jooby.exception.BadRequestException;
 
-@Path("/multiplciacao/{op}/{op2}")
+@Path("/multiplicacao/{op}/{op2}")
 public class Multiplicacao {
     
     @GET
